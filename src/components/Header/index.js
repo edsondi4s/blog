@@ -8,7 +8,7 @@ const Header = () => {
         <>
             <header className="flex-space-beetween">
 
-                <div className="logo border">
+                <div className="logo">
                     <img src={logosvg} alt={descLogo}/>
                 </div>
                 <div className="search">
